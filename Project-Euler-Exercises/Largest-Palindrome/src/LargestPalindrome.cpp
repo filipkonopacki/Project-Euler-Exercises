@@ -26,7 +26,7 @@ int FindPalindrome()
 }
 
 
-int main()
+void LargestPalindrome()
 {
 	clock_t begin = clock();
 	for (std::size_t i = 0; i < 1000; i++)

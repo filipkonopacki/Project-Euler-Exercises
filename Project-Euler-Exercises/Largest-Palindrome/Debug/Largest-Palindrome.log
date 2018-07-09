@@ -1,2 +1,3 @@
 ﻿  LargestPalindrome.cpp
-  Largest-Palindrome.vcxproj -> C:\Users\fkonopac\Documents\GitHub\Project-Euler-Exercises\Project-Euler-Exercises\Debug\Largest-Palindrome.exe
+c:\users\filip\documents\github\project-euler-exercises\project-euler-exercises\largest-palindrome\src\largestpalindrome.cpp(41): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Largest-Palindrome.vcxproj -> C:\Users\filip\Documents\GitHub\Project-Euler-Exercises\Project-Euler-Exercises\Debug\Largest-Palindrome.exe
